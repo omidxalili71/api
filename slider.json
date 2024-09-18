@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "src": "./public/images/slider/pooster-1.jpg",
+    "alt": "malek"
+  },
+  {
+    "id": 2,
+    "src": "./public/images/slider/pooster-2.jpeg",
+    "alt": "red hair"
+  },
+  {
+    "id": 3,
+    "src": "./public/images/slider/pooster-3.jpeg",
+    "alt": "japon"
+  },
+  {
+    "id": 4,
+    "src": "./public/images/slider/pooster-4.jpeg",
+    "alt": "tanz"
+  }
+]
